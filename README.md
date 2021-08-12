@@ -1,6 +1,8 @@
-# My_Project_College
+Spelling Error Detection and Auto Suggest
 
-This word suggestor is implemented using "trie" data stucture and written in C++. .
-This CPP file requires a dictionary, and it is done by using file handling.
+1. Implemented auto-suggest feature using Trie Data structure, which checks correctness of
+word and provides nearest word options based on user input
 
-If you want to add words in dictionary, you can add them directly adding to dictionary.txt file, or there is a option in Cpp program that can be used to add words.
+2. Damerau-Levenshtein Distance applied as the principal algorithm for finding nearest word
+
+3. Features to Modify User Dictionary
